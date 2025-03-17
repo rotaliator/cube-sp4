@@ -1,0 +1,20 @@
+{:steps
+ ["scramble"
+  "Etap 1/8 <br> Stokrotka 🌼 <br> Myszy do sera🐭"
+  "Etap 2/8 <br> Biały krzyż ➕ <br> Myszy do piwnicy🏠"
+  "Etap 3/8 <br> Pierwsza warstwa <br> Koty🐱"
+  "Etap 4/8 <br> Druga wartstwa <br> Papugi🦜"
+  "Etap 5/8 <br> Żółty krzyż (• ￫ 👟 ￫ ➖ ￫ ➕)"
+  "Etap 6/8 <br> 🟨 Warsztat 🚕"
+  "Etap 7/8 <br> Permutacja A <br> Sanki 🛷"
+  "Etap 8/8 <br> Permutacja U <br> Rower 🚴‍♂️"]
+ :solutions
+ [["B D' L' U' D' L2 F2 L F U2 L2 B2 L' F2 R' D2 U B' L2 x2"
+   "y F' R y y F R y y y R y y y y x2 x2' U' F2"
+   "y' U F2 y U F2 R2 y' y' U F2 x2 x2"
+   "y' y' U y U' L' U L y' y' U R U' R' U2 y2 U' F' U F y R U R' U' U R U' U' R' U R U' R'"
+   "y' U R U' R' y U' L' U L y y y y U R U' R' y U' L' U L y U R U' R' y U' L' U L y U R U' R' y U' L' U L U R U' R' y U' L' U L y' U2 U R U' R' y U' L' U L"
+   "y y F R U R' U' F' F R U R' U' F'"
+   "x x y y R U R' U' R U R' U' R U R' U' R U R' U' D  R U R' U' R U R' U' D R U R' U' R U R' U' R U R' U' R U R' U' D  R U R' U' R U R' U' x2"
+   "y2 x R' U R' D D R U' R' D D R R x' U'"
+   "R' U R' U' R' U' R' U R U R R y R' U R' U' R' U' R' U R U R R"]]}
