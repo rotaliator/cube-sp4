@@ -137,7 +137,7 @@
     [:h3 "Aktualnym rekordzistą jest Yiheng Wang 🇨🇳 (wiek: 11 lat)..."]
     #_[:img {:src "assets/img/Yiheng_Wang_308.jpg"}]
     [:video {:controls true}
-     [:source {:src "/assets/vid/Yiheng_Wang_308.mp4" :type "video/mp4"}]
+     [:source {:src "assets/vid/Yiheng_Wang_308.mp4" :type "video/mp4"}]
      "Your browser does not support the video tag."]
     [:small
      [:p "... z czasem 3.08s 🚀"]
